@@ -73,8 +73,8 @@ This project applies fundamental data analysis techniques to a Weather dataset, 
 ### Option 2: Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Joharika0/Data-Analysis-using-Python-with-Weather-Dataset.git
+cd Data-Analysis-using-Python-with-Weather-Dataset
 
 # Install dependencies
 pip install pandas
