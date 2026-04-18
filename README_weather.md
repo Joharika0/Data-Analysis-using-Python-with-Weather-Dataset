@@ -93,7 +93,7 @@ jupyter notebook Python_Data_Analysis_Project.ipynb
 ## 📁 Repository Structure
 
 ```
-📦 your-repo-name
+📦 Data-Analysis-using-Python-with-Weather-Dataset
  ┣ 📓 Python_Data_Analysis_Project.ipynb   # Main notebook
  ┣ 📄 Weather_Data.csv                      # Dataset
  ┗ 📄 README.md                             # Project documentation
@@ -117,7 +117,3 @@ jupyter notebook Python_Data_Analysis_Project.ipynb
 This project was completed as part of a Python Data Analysis learning exercise using a publicly available Weather dataset.
 
 ---
-
-## 📬 Contact
-
-Feel free to connect or raise an issue if you have suggestions or questions!
